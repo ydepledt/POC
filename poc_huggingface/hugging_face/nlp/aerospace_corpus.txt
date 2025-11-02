@@ -1,0 +1,39 @@
+Rocket propulsion is the process of using rocket engines to generate thrust. The basic principle involves expelling mass at high velocity to create an equal and opposite reaction.
+
+A jet engine is a type of reaction engine that discharges a fast-moving stream of gas to generate thrust. It is commonly used in aircraft to achieve high speeds and efficiency.
+
+Lift is the aerodynamic force that acts perpendicular to the direction of motion, allowing an aircraft to rise. Drag is the resistive force that acts opposite to the direction of motion, slowing the aircraft down.
+
+The Space Shuttle was a spacecraft used by NASA for missions in low Earth orbit. It was designed to be reusable and could carry astronauts, satellites, and cargo into space.
+
+Satellite communication involves the use of satellites to transmit and receive signals for communication purposes, such as television broadcasts, internet services, and military operations.
+
+Aerodynamics is the study of the behavior of air as it interacts with solid objects, like an aircraft or spacecraft. Understanding aerodynamics is crucial for designing efficient and stable vehicles.
+
+Orbital mechanics, or celestial mechanics, is the branch of physics that deals with the motion of objects in space under the influence of gravitational forces. It is essential for planning satellite trajectories and space missions.
+
+Hypersonic flight refers to speeds greater than Mach 5 (five times the speed of sound). Achieving and maintaining hypersonic speeds presents significant technical challenges, including thermal management and propulsion.
+
+Spacecraft docking is the process of connecting two spacecraft or a spacecraft and a space station in orbit. This is a critical operation for crew transfer, cargo delivery, and spacecraft servicing.
+
+A turbofan engine is a type of jet engine that uses a fan to provide additional thrust. It is commonly used in modern commercial aircraft for its fuel efficiency and reduced noise levels.
+
+Flight control systems are the mechanisms and electronics that control the movement and stability of an aircraft or spacecraft. They include both manual controls and automated systems for precise navigation and handling.
+
+Space exploration involves the use of space technology to explore outer space. It includes missions to study celestial bodies, such as planets and asteroids, and the search for extraterrestrial life.
+
+Rocket propellants are substances used to produce thrust in rocket engines. They include both the fuel and the oxidizer, which chemically react to generate high-speed exhaust gases.
+
+Aerospace engineering is the field of engineering focused on the design, development, and maintenance of aircraft and spacecraft. It encompasses various disciplines, including aerodynamics, propulsion, and avionics.
+
+A space station is a large spacecraft that remains in low Earth orbit for extended periods. It serves as a laboratory for scientific research and a base for space exploration missions.
+
+A thermal protection system (TPS) is designed to protect spacecraft and satellites from the extreme temperatures encountered during re-entry into Earth's atmosphere.
+
+Flight dynamics is the study of the forces and moments that affect the flight of an aircraft or spacecraft. It involves analyzing the stability, control, and performance characteristics of the vehicle.
+
+An ion thruster is a type of electric propulsion system that uses ionized gas to produce thrust. It is highly efficient and suitable for long-duration space missions.
+
+Avionics refers to the electronic systems used in aircraft for navigation, communication, and flight control. Modern avionics systems enhance safety and operational efficiency.
+
+A reentry vehicle is designed to safely return a spacecraft or satellite from space to Earth's surface. It must withstand intense heat and aerodynamic forces during reentry.
