@@ -8,17 +8,19 @@ MODEL_PATH = "digit_model.pth"
 DATA_ROOT = "./data"
 
 # UI Colors
-BG_COLOR = "#1a1a2e"
-ACCENT_COLOR = "#e94560"
-SECONDARY_BG = "#16213e"
-TEXT_COLOR = "white"
-PRED_COLOR = "#00d9ff"
-CONF_LOW = "#ff4444"
-CONF_MID = "#ffaa00"
-CONF_HIGH = "#00ff88"
+BG_COLOR = "#0f172a"  # Deeper navy
+ACCENT_COLOR = "#38bdf8"  # Sky blue
+SECONDARY_BG = "#1e293b"  # Slate 800
+TEXT_COLOR = "#f8fafc"
+PRED_COLOR = "#22d3ee"
+CONF_LOW = "#f87171"
+CONF_MID = "#fbbf24"
+CONF_HIGH = "#4ade80"
+SIDEBAR_COLOR = "#111827"
+CANVAS_BG = "#020617"
 
 # Visualization Colors
-ACTIVATION_COLORS = ["#0a0a1a", "#1a1a4e", "#2a4a8e", "#00d9ff", "#ffffff"]
+ACTIVATION_COLORS = ["#0f172a", "#1e293b", "#334155", "#38bdf8", "#f8fafc"]
 
 # Model Hyperparameters
 BATCH_SIZE = 128
