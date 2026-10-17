@@ -1,0 +1,1 @@
+"""French local web interface."""

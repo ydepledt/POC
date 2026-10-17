@@ -1,0 +1,6 @@
+# Python 3.11 ou 3.12 recommandé
+openai>=2.0,<3.0
+python-dotenv>=1.0,<2.0
+streamlit>=1.40,<2.0
+twikit>=2.3.3,<3.0
+tzdata>=2025.1

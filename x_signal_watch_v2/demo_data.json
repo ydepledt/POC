@@ -1,0 +1,51 @@
+{
+  "tweets": [
+    {
+      "tweet_id": "demo-orbitalia-01", "author": "orbitalia_demo", "text": "[DÉMO FICTIVE] La société imaginaire Orbitalia annonce que son lancement d'essai est reporté de 48 heures à cause de conditions météo défavorables.", "created_at": "2026-10-16T14:01:00+00:00", "url": "", "likes": 62, "reposts": 18, "sample": 1, "query": "Espace"
+    },
+    {
+      "tweet_id": "demo-orbitalia-02", "author": "orbitalwatch_demo", "text": "[DÉMO FICTIVE] Orbitalia reporte de deux jours le vol inaugural de sa fusée d'essai. Prochain créneau en cours d'évaluation.", "created_at": "2026-10-16T14:05:00+00:00", "url": "", "likes": 23, "reposts": 7, "sample": 1, "query": "Espace"
+    },
+    {
+      "tweet_id": "demo-orbitalia-03", "author": "veilleespace_demo", "text": "[DÉMO FICTIVE] Rien d'inquiétant pour le moment selon le compte fictif d'Orbitalia : le report de 48h serait lié au vent sur la zone de lancement.", "created_at": "2026-10-16T14:09:00+00:00", "url": "", "likes": 19, "reposts": 2, "sample": 1, "query": "Espace"
+    },
+    {
+      "tweet_id": "demo-nebula-01", "author": "nebulacloud_demo", "text": "[DÉMO FICTIVE] Le service imaginaire NebulaCloud signale des erreurs intermittentes sur sa région cloud Europe-Ouest et enquête.", "created_at": "2026-10-16T14:20:00+00:00", "url": "", "likes": 81, "reposts": 29, "sample": 1, "query": "Technologie"
+    },
+    {
+      "tweet_id": "demo-nebula-02", "author": "devparis_demo", "text": "[DÉMO FICTIVE] Plusieurs erreurs 503 sur NebulaCloud Europe-Ouest depuis quelques minutes. D'autres utilisateurs voient la même chose ?", "created_at": "2026-10-16T14:22:00+00:00", "url": "", "likes": 15, "reposts": 5, "sample": 1, "query": "Technologie"
+    },
+    {
+      "tweet_id": "demo-nebula-03", "author": "monitoring_demo", "text": "[DÉMO FICTIVE] NebulaCloud aurait identifié un problème de réseau dans sa zone Europe-Ouest. Information publiée sur un compte fictif, sans vérification externe.", "created_at": "2026-10-16T14:30:00+00:00", "url": "", "likes": 44, "reposts": 11, "sample": 1, "query": "Technologie"
+    },
+    {
+      "tweet_id": "demo-transit-01", "author": "mobilite_demo", "text": "[DÉMO FICTIVE] Le réseau imaginaire MetroNova annonce des essais techniques nocturnes sur sa ligne B samedi. Pas d'impact attendu en journée.", "created_at": "2026-10-16T14:31:00+00:00", "url": "", "likes": 39, "reposts": 8, "sample": 1, "query": "Transport"
+    },
+    {
+      "tweet_id": "demo-transit-02", "author": "usagers_demo", "text": "[DÉMO FICTIVE] Les tests du réseau fictif MetroNova devraient se dérouler après la fin du service sur la ligne B. Horaires non encore détaillés.", "created_at": "2026-10-16T14:33:00+00:00", "url": "", "likes": 9, "reposts": 1, "sample": 1, "query": "Transport"
+    },
+    {
+      "tweet_id": "demo-noise-01", "author": "pub_demo", "text": "[DÉMO FICTIVE] Quel est votre jeu préféré ? Répondez en commentaire !", "created_at": "2026-10-16T14:40:00+00:00", "url": "", "likes": 2, "reposts": 0, "sample": 1, "query": "Technologie"
+    }
+  ],
+  "events": [
+    {
+      "headline": "Report de 48 heures annoncé pour un essai d'Orbitalia (fiction)",
+      "summary": "Dans ce scénario fictif, plusieurs publications évoquent un report de lancement lié aux conditions météorologiques. Aucune source réelle n'a été consultée.",
+      "category": "Science", "importance": 3,
+      "tweet_ids": ["demo-orbitalia-01", "demo-orbitalia-02", "demo-orbitalia-03"], "existing_event_id": null
+    },
+    {
+      "headline": "Perturbations signalées sur NebulaCloud Europe-Ouest (fiction)",
+      "summary": "Dans ce scénario fictif, des comptes font état d'erreurs intermittentes dans une région cloud imaginaire. L'origine de la perturbation reste à établir.",
+      "category": "Technologie", "importance": 4,
+      "tweet_ids": ["demo-nebula-01", "demo-nebula-02", "demo-nebula-03"], "existing_event_id": null
+    },
+    {
+      "headline": "Essais nocturnes annoncés pour la ligne B de MetroNova (fiction)",
+      "summary": "Des publications fictives évoquent des tests après la fin du service. Aucun impact en journée n'est annoncé dans ce scénario.",
+      "category": "Actualité", "importance": 2,
+      "tweet_ids": ["demo-transit-01", "demo-transit-02"], "existing_event_id": null
+    }
+  ]
+}

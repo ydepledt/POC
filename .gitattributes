@@ -1,0 +1,4 @@
+agent-racing/** text=auto eol=lf
+agent-racing/*.bat text eol=crlf
+x_signal_watch_v2/** text=auto eol=lf
+x_signal_watch_v2/*.bat text eol=crlf

@@ -1,0 +1,11 @@
+{
+  "population": 1500,
+  "generations": 30,
+  "seed": 42,
+  "track": "kidney",
+  "difficulty": "medium",
+  "max_seconds": 48.0,
+  "min_generations": 20,
+  "budget_seconds": 600.0,
+  "video_duration": 24.0
+}

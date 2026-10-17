@@ -1,0 +1,10 @@
+{
+  "population": 150,
+  "generations": 8,
+  "seed": 7,
+  "track": "oval",
+  "difficulty": "easy",
+  "max_seconds": 40.0,
+  "budget_seconds": 120.0,
+  "video_duration": 20.0
+}
